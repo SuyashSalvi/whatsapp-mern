@@ -20,8 +20,11 @@ Express.js
 MongoDB for database storage
 Pusher for real-time updates
 
-
+Desktop view:
 <img width="879" alt="desktop_whatsapp" src="https://github.com/SuyashSalvi/whatsapp-mern/assets/40499151/48427882-8f35-4bc1-bc65-dbc46c38f1a6">
 
+Ipad view:
 <img width="407" alt="ipadAir_whatsapp" src="https://github.com/SuyashSalvi/whatsapp-mern/assets/40499151/00e52ba9-b6f7-42cd-81f1-ef7ae7e8e0e7">
 
+Iphone view:
+<img width="363" alt="iphoneSE_whatsapp" src="https://github.com/SuyashSalvi/whatsapp-mern/assets/40499151/edae0403-2314-4430-87c8-f014ff3034fb">

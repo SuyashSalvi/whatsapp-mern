@@ -22,3 +22,6 @@ Pusher for real-time updates
 
 
 <img width="879" alt="desktop_whatsapp" src="https://github.com/SuyashSalvi/whatsapp-mern/assets/40499151/48427882-8f35-4bc1-bc65-dbc46c38f1a6">
+
+<img width="407" alt="ipadAir_whatsapp" src="https://github.com/SuyashSalvi/whatsapp-mern/assets/40499151/00e52ba9-b6f7-42cd-81f1-ef7ae7e8e0e7">
+

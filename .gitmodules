@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/SuyashSalvi/whatsapp-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SuyashSalvi/whatsapp_clone

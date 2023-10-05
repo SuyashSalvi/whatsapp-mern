@@ -9,6 +9,7 @@ This project is a full-stack WhatsApp clone built using the MERN (MongoDB, Expre
 
 • Real-time Messaging: Utilizes Pusher to enable real-time messaging functionality.
 
+
 • Responsive Design: The application is designed to work seamlessly on various devices.
 
 # Technologies Used

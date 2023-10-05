@@ -1,24 +1,24 @@
-#WhatsApp Clone - MERN Stack
+## WhatsApp Clone - MERN Stack
 
-a. Description
+# Description
 This project is a full-stack WhatsApp clone built using the MERN (MongoDB, Express.js, React, Node.js) stack. It also incorporates Pusher for real-time updates and Axios for making HTTP requests.
 
-b. Features
+# Features
 Real-time Messaging: Utilizes Pusher to enable real-time messaging functionality.
 Responsive Design: The application is designed to work seamlessly on various devices.
 
-c. Technologies Used
+# Technologies Used
 
 Frontend:
-React.js
-Axios for HTTP requests
-Material-UI for UI components
+• React.js
+• Axios for HTTP requests
+• Material-UI for UI components
 
 Backend:
-Node.js
-Express.js
-MongoDB for database storage
-Pusher for real-time updates
+• Node.js
+• Express.js
+• MongoDB for database storage
+• Pusher for real-time updates
 
 Desktop view:
 <img width="879" alt="desktop_whatsapp" src="https://github.com/SuyashSalvi/whatsapp-mern/assets/40499151/48427882-8f35-4bc1-bc65-dbc46c38f1a6">

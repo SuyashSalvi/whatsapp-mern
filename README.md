@@ -28,6 +28,7 @@ Backend:
 
 # Application
 
+
 • Desktop view:
 
 <img width="879" alt="desktop_whatsapp" src="https://github.com/SuyashSalvi/whatsapp-mern/assets/40499151/48427882-8f35-4bc1-bc65-dbc46c38f1a6">
